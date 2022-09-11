@@ -4,14 +4,13 @@
 <br><br>
 [HOME](https://jeremyalv.github.io/os222/) ---
 [LINKS](https://jeremyalv.github.io/os222/links.md) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
+[TIPS](https://jeremyalv.github.io/os222/tips.md) ---
 [LOG](https://github.com/jeremyalv/os222/blob/main/TXT/mylog.txt) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
-[GITHUB]({{ site.githublink }})
+[TARBALL](https://os.vlsm.org/Log/jeremyalv.tar.bz2.txt) ---
+[GITHUB](github.com/jeremyalv)
 <br>
 <hr>
-This is {{ site.title }} and I am {{ site.author }}.
-<br><br>
+This is OS222 Website and I am Jeremy.
 This is the way!
 <br>
 <hr>
