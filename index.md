@@ -7,7 +7,7 @@
 [TIPS](https://jeremyalv.github.io/os222/tips.md) ---
 [LOG](https://github.com/jeremyalv/os222/blob/main/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/jeremyalv.tar.bz2.txt) ---
-[GITHUB](github.com/jeremyalv)
+[GITHUB](https://github.com/jeremyalv)
 <br>
 <hr>
 This is OS222 Website and I am Jeremy.
