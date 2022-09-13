@@ -3,7 +3,7 @@
 <span style="color:red; font-weight:bold; font-size:larger;">By Jeremy Alva Prathama</span>
 <br><br>
 [HOME](https://jeremyalv.github.io/os222/) ---
-[LINKS](https://github.com/jeremyalv/os222/blob/main/links.md) ---
+[LINKS](https://jeremyalv.github.io/os222/LINKS) ---
 [TIPS](https://jeremyalv.github.io/os222/tips.md) ---
 [LOG](https://github.com/jeremyalv/os222/blob/main/TXT/mylog.txt) ---
 [TARBALL](https://os.vlsm.org/Log/jeremyalv.tar.bz2.txt) ---
