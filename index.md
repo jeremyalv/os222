@@ -14,6 +14,6 @@ This is OS222 Website and I am Jeremy.
 This is the way!
 <br>
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; 2022  --- Jeremy Alva Prathama --- Version: 17 Sept 2022.
 <hr>
 <br>
