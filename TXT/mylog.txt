@@ -19,3 +19,9 @@ ZCZC W02 90 L12 Assignment #2
 ZCZC W03 100 L02 Zoom meetings
 ZCZC W03 100 L02 Zoom meetings
 ZCZC W03 120 L13 Assignment #3
+ZCZC W04 120 L02 Zoom meeting
+ZCZC W04 120 L99 Offline Class
+ZCZC W04 140 L14 Assignment #4
+ZCZC W04 80 L05 Studying for Quiz
+ZCZC W04 60 L05 Pop Quiz
+ZCZC W04 10 L05 Weekly Quiz
