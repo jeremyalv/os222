@@ -25,3 +25,10 @@ ZCZC W04 140 L14 Assignment #4
 ZCZC W04 80 L05 Studying for Quiz
 ZCZC W04 60 L05 Pop Quiz
 ZCZC W04 10 L05 Weekly Quiz
+ZCZC W05 120 L02 Zoom meeting
+ZCZC W05 30 L15 Assignment #5
+ZCZC W05 120 L99 Offline class
+ZCZC W05 150 L15 Assignment #5
+ZCZC W05 110 L05 Studying for Quiz
+ZCZC W05 3 L05 Pop Quiz
+ZCZC W05 3 L05 Weekly Quiz
