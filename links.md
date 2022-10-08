@@ -34,6 +34,15 @@ permalink: /LINKS/
     Simple explanation about the main memory material of the OS curriculum. 
     Covers the basics such as memory structure, registers, hardware addresses, etc.
 
+7. [What is Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ&ab_channel=AndroidAuthority)
+    In this video, the creator explains the basics on virtual memory, how VMs work,
+    introduction to MMUs, and more.
+
+8. [Segmented, Paged, and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s&ab_channel=ComputerScience)
+    The video provides an overview on segmented memory management systems. It compares segmented memory management to other types such as paged and virtual memory.
+
+
+
 
 
 <br>
