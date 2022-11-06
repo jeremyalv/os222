@@ -32,3 +32,10 @@ ZCZC W05 150 L15 Assignment #5
 ZCZC W05 110 L05 Studying for Quiz
 ZCZC W05 3 L05 Pop Quiz
 ZCZC W05 3 L05 Weekly Quiz
+ZCZC W06 120 L02 Zoom meeting
+ZCZC W06 60 L16 Assignment W06
+ZCZC W06 120 L99 Offline class
+ZCZC W06 75 L16 Assignment W06
+ZCZC W06 90 L05 Studying for quiz
+ZCZC W06 45 L05 Popquiz
+ZCZC W06 3 L05 Weekly Quiz

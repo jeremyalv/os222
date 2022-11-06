@@ -41,6 +41,14 @@ permalink: /LINKS/
 8. [Segmented, Paged, and Virtual Memory](https://www.youtube.com/watch?v=p9yZNLeOj4s&ab_channel=ComputerScience)
     The video provides an overview on segmented memory management systems. It compares segmented memory management to other types such as paged and virtual memory.
 
+9. [Concurrency vs Parallelism](https://www.youtube.com/watch?v=Y1pgpn2gOSg&ab_channel=JakobJenkov)
+    This video explains the difference between concurrency and parallelism, and provides further explanations on parallel execution, parallel concurrent execution, and also parallelism in abstract and concrete terms.
+
+10.[Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74&ab_channel=NesoAcademy)
+    Explanation about shared memory system concept in Operating Systems. The author discussed about the producer-consumer problem, and also buffer types such as unbounded and bounded buffer.
+
+
+
 
 
 
