@@ -47,8 +47,8 @@ permalink: /LINKS/
 10.[Shared Memory Systems](https://www.youtube.com/watch?v=uHtzOFwgD74&ab_channel=NesoAcademy)
     Explanation about shared memory system concept in Operating Systems. The author discussed about the producer-consumer problem, and also buffer types such as unbounded and bounded buffer.
 
-
-
+11. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y&ab_channel=NesoAcademy)
+    This is a good video that discusses about process synchronization in Operating Systems, also talks about coordination process, and race condition.
 
 
 
