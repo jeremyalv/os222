@@ -46,3 +46,8 @@ ZCZC W07 90 L17 Assignment W07
 ZCZC W07 90 L05 Studying for quiz
 ZCZC W07 60 L05 Popquiz
 ZCZC W07 3 L05 Weekly quiz
+ZCZC W08 120 L02 Classes
+ZCZC W08 120 L99 Classes
+ZCZC W08 90 L05 Studying for quiz
+ZCZC W08 3 L05 Weekly Quiz
+ZCZC W08 540 L18 Assignment W08
