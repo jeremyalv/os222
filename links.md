@@ -53,6 +53,9 @@ permalink: /LINKS/
 12. [Linux from Scratch Vlog](https://www.youtube.com/watch?v=1eOdaXS-wVE&ab_channel=BrodieRobertson)
     This is a good review on whether one should attempt to do LFS on their own. It's a good learning experience for beginners.
 
+13. [Linux Distributions Explained](https://www.youtube.com/watch?v=ShcR4Zfc6Dw&ab_channel=Fireship)
+    A good video explaining linux distribution systems out there. It gives new knowledge about the distributions.
+
 
 
 <br>

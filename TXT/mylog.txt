@@ -51,3 +51,8 @@ ZCZC W08 120 L99 Classes
 ZCZC W08 90 L05 Studying for quiz
 ZCZC W08 3 L05 Weekly Quiz
 ZCZC W08 540 L18 Assignment W08
+ZCZC W09 120 L02 Classes
+ZCZC W09 120 L99 Classes
+ZCZC W09 660 L19 Assignment W09
+ZCZC W09 60 L05 Popquiz
+ZCZC W09 3 L05 Popquiz
