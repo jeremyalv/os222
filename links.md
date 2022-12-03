@@ -56,6 +56,8 @@ permalink: /LINKS/
 13. [Linux Distributions Explained](https://www.youtube.com/watch?v=ShcR4Zfc6Dw&ab_channel=Fireship)
     A good video explaining linux distribution systems out there. It gives new knowledge about the distributions.
 
+14. [Introduction to Linux from Scratch](https://www.youtube.com/watch?v=LPXAOa4-Tkk&ab_channel=LinuxPanic)
+    The video gives a good introduction for building Linux OS from scratch, explains the necessary steps and things to take note of.
 
 
 <br>

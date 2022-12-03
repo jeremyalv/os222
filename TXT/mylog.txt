@@ -56,3 +56,7 @@ ZCZC W09 120 L99 Classes
 ZCZC W09 660 L19 Assignment W09
 ZCZC W09 60 L05 Popquiz
 ZCZC W09 3 L05 Popquiz
+ZCZC W10 120 L05 Classes
+ZCZC W10 90 L05 Popquiz Work
+ZCZC W10 3 L05 Popquiz
+ZCZC W10 750 L09 Weekly Assignments
